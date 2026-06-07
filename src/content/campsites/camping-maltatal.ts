@@ -113,7 +113,7 @@ export const campsite: CampsiteConfig = {
       "Das Maltatal ist ein Eldorado für Wanderer, Bergsteiger und Naturliebhaber – über 300 km markierte Wege, Wasserfälle, eine gewaltige Talsperre und jede Menge Familienabenteuer rund um den Platz.",
     items: [
       { title: "Wandern & Bergsteigen", text: "Gemütliches Familienwandern am Maltaberg oder hochalpines Bergsteigen auf den Dreitausendern – über 300 km markierte Wanderwege.", image: { src: `${IMG}/aktiv_wandern_stausee.webp`, alt: "Bergziege auf einer Alm über dem Stausee im Maltatal" } },
-      { title: "Fallbach – Kärntens höchster Wasserfall", text: "Nur rund 5 km entfernt stürzt der Fallbach in die Tiefe – ein Kraftpunkt mit Erlebnispark und Sportklettersteig direkt nebenan.", image: { src: `${IMG}/aktiv_fallbach_wasserfall.webp`, alt: "Der hohe Wasserfall Fallbach im Maltatal" } },
+      { title: "Künstlerstädtchen Gmünd", text: "Nur rund 6 km entfernt lädt die mittelalterliche Kulturstadt Gmünd zum Bummeln ein – mit Pfarrkirche, alter Burg, Porsche-Museum und vielen Galerien und Künstlerateliers.", image: { src: `${IMG}/aktiv_gmuend.webp`, alt: "Blick über die Künstlerstadt Gmünd mit Pfarrkirche, Burgruine und den Bergen Kärntens" } },
       { title: "Kölnbreinsperre & Hochalmstraße", text: "Über die Malta-Hochalmstraße zur Kölnbreinsperre – mit 200 m die höchste Talsperre Österreichs, samt Mauerführung und Airwalk-Glasboden.", image: { src: `${IMG}/aktiv_koelnbreinsperre.webp`, alt: "Wanderin mit Blick auf die Kölnbreinsperre und die Hohen Tauern" } },
       { title: "Canyoning im Maltatal", text: "Mit professionellen Schluchtenführern durch die eindrucksvolle Wasserwelt des Maltatals – Abenteuer pur.", image: { src: `${IMG}/aktiv_canyoning.webp`, alt: "Canyoning-Gruppe rutscht durch eine Schlucht im Maltatal" } },
       { title: "Radfahren am Maltafluss", text: "Der rund 18 km lange Familienradweg R9 führt von Gmünd über Malta entlang des Maltaflusses bis zur Mautstelle der Hochalmstraße.", image: { src: `${IMG}/aktiv_radweg_maltafluss.webp`, alt: "Familie macht Rast mit den Rädern am Ufer des Maltaflusses" } },
@@ -219,7 +219,7 @@ export const campsite: CampsiteConfig = {
       href: "#aktivitaeten",
       children: [
         { label: "Wandern & Bergsteigen", href: "#aktivitaeten" },
-        { label: "Fallbach & Kölnbreinsperre", href: "#aktivitaeten" },
+        { label: "Kölnbreinsperre & Gmünd", href: "#aktivitaeten" },
         { label: "Canyoning & Radfahren", href: "#aktivitaeten" },
       ],
     },
