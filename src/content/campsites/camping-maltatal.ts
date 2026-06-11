@@ -168,7 +168,6 @@ export const campsite: CampsiteConfig = {
     mail: "info@maltacamp.at",
     facebook: "https://www.facebook.com/CampingMaltatal",
     adresse: "Malta 6 · 9854 Malta · Kärnten · Österreich",
-    coords: { lat: 46.9496263, lng: 13.5097015 },
   },
 
   story: {
