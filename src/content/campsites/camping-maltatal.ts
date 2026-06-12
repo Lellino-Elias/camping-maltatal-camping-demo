@@ -163,6 +163,7 @@ export const campsite: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 46.949615, lng: 13.509722 },
     tel: "+43 4733 2340",
     telHref: "tel:+4347332340",
     mail: "info@maltacamp.at",
