@@ -139,7 +139,7 @@ export const campsite: CampsiteConfig = {
     images: [
       { src: `${IMG}/galerie_wiesencamping.webp`, alt: "Wiesencamping mit Wohnwagen und Zelten am Terrassencamping Maltatal" },
       { src: `${IMG}/galerie_kulinarik.webp`, alt: "Frisch zubereitetes Fischgericht aus dem Restaurant am Campingplatz" },
-      { src: `${IMG}/galerie_babybereich.webp`, alt: "Babywaschkabine mit Wickelplatz im Sanitärgebäude" },
+      { src: `${IMG}/galerie_sonnige_wiese.webp`, alt: "Sonnige grüne Wiese am Campingplatz Maltatal mit Freibad im Hintergrund" },
       { src: `${IMG}/galerie_traktorkutsche.webp`, alt: "Traktor mit Kutsche auf dem Weg über den Campingplatz" },
     ],
   },
