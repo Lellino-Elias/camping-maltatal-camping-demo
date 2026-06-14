@@ -77,11 +77,11 @@ export const campsite: CampsiteConfig = {
     intro:
       "Rund 220 großzügige Stellplätze (80–110 m²), terrassenförmig angelegt auf 4 ha und alle mit Stromanschluss – die meisten zusätzlich mit direktem Zu- und Abwasseranschluss, umgeben von schattenspendenden Bäumen und gepflegten Hecken.",
     features: [
+      { title: "Solarbeheiztes Freibad", text: "Ein solarbeheiztes Schwimmbad (25 × 12,5 m) mit Babybecken – Abkühlung mit Bergblick direkt am Platz.", image: { src: `${IMG}/camping_freibad.webp`, alt: "Solarbeheiztes Freibad mit Edelstahlrand vor grüner Wiese und blauem Himmel" } },
       { title: "Kategorie 1 – Komfort", text: "Stellplätze in Terrassen- oder Randlage mit Zu- und Abwasser sowie Stromanschluss – für jede Art von Campingausrüstung.", image: { src: `${IMG}/camping_kategorie1.webp`, alt: "Komfort-Stellplatz der Kategorie 1 zwischen Bäumen und Hecken" } },
       { title: "Kategorie 2 & 3", text: "Plätze in paradiesischer Terrassen- und Randlage mit Stromanschluss – ideal für Zelte und Faltwägen.", image: { src: `${IMG}/camping_kategorie2.webp`, alt: "Stellplatz mit Wohnwagen und Vorzelt entlang der Zufahrt der Kategorie 2" } },
       { title: "220 terrassierte Plätze", text: "Auf 4 ha verteilt, von schattenspendenden Bäumen und Hecken umgeben – das schafft Privatsphäre und ein natürliches Ambiente.", image: { src: `${IMG}/camping_stellplatz.webp`, alt: "Wohnwagen mit Vorzelt auf grünem Stellplatz, umgeben von Bäumen" } },
       { title: "Zwei moderne Sanitärgebäude", text: "Die geräumige Panorama-Oase bietet Duschen, WCs, Waschmaschinen, Trockner, Infrarotkabine sowie Baby- und barrierefreie Waschkabinen.", image: { src: `${IMG}/camping_sanitaer.webp`, alt: "Modernes, helles Sanitärgebäude mit roten Fliesen und Holzdecke" } },
-      { title: "Solarbeheiztes Freibad", text: "Ein solarbeheiztes Schwimmbad (25 × 12,5 m) mit Babybecken – Abkühlung mit Bergblick direkt am Platz.", image: { src: `${IMG}/camping_freibad.webp`, alt: "Solarbeheiztes Freibad mit Edelstahlrand vor grüner Wiese und blauem Himmel" } },
       { title: "Restaurant & Pizzeria", text: "Traditionelle Hausmannskost und hausgemachte Pizza aus dem Holzofen – ausgezeichnet als ACSI „Best Campsite Restaurant Austria 2025“.", image: { src: `${IMG}/camping_restaurant.webp`, alt: "Kärntner Spezialitäten auf dem Tisch im Freien am Campingplatz" } },
     ],
   },
